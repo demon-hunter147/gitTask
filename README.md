@@ -18,7 +18,7 @@ The file can then be included into a project by linking it as a JavaScript scrip
 1. Once the data has been typed, the data is used to alert the user in the browser window, stating exactly what they typed.
 
 #### Example:
-![helloWorld in Action](https://github.com/demon-hunter147/gitTask/images/helloWorld-in-action.JPG)
+![helloWorld in Action](https://github.com/demon-hunter147/gitTask/blob/master/images/helloWorld-in-action.JPG)
 
 ### Credits
 This is all my own work! 
